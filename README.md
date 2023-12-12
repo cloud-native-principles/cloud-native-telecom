@@ -1,1 +1,12 @@
-# cloud-native-telecom
+# Cloud Native Telecom
+
+## NEW [“Accelerating Cloud Native in Telco” Whitepaper V1](https://github.com/cncf/cnf-wg/blob/main/doc/whitepaper/Accelerating_Cloud_Native_in_Telco.md)
+
+
+**Reference material for building cloud native telecom systems**
+
+- [Cloud Native Principles](https://networking.cloud-native-principles.org/)
+- [NGMN Cloud Native Manifesto](https://www.ngmn.org/highlight/ngmn-publishes-cloud-native-manifesto.html)
+- [Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/), Justin Garrison and Kris Nova. 2017 (9781491984307)
+- [X-Factor CNFs](https://x.cnf.dev/)
+
