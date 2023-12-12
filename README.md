@@ -1,6 +1,6 @@
 # Cloud Native Telecom
 
-## NEW [“Accelerating Cloud Native in Telco” Whitepaper V1](https://github.com/cncf/cnf-wg/blob/main/doc/whitepaper/Accelerating_Cloud_Native_in_Telco.md)
+## NEW WHITEPAPER: [“Accelerating Cloud Native in Telco”](whitepapers/Accelerating_Cloud_Native_in_Telco)
 
 
 **Reference material for building cloud native telecom systems**
