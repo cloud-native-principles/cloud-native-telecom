@@ -9,4 +9,4 @@ This document is a product of the initial joint work of several Communication Se
 ## Continue reading...
 
 - [Markdown version](https://github.com/cncf/cnf-wg/blob/main/doc/whitepaper/Accelerating_Cloud_Native_in_Telco.md) in the CNF Working Group respository
-- [Download PDF](Accelerating_Cloud_Native_in_Telco.pdf)
+- [Download PDF](Accelerating%20Cloud%20Native%20in%20Telco.pdf)
