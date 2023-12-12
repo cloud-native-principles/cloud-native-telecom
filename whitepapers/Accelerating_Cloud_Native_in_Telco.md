@@ -1,3 +1,10 @@
+---
+layout: default
+title: Accelerating Cloud Native in Telco
+description: A whitepaper on the challenges of Cloud Native Telco transformation today and how to overcome them from a CSP perspective
+---
+
+
 # Accelerating Cloud Native in Telco  
 **_Challenges of Cloud Native Telco Transformation today and how to overcome them - A CSP perspective_**
 
@@ -28,3 +35,6 @@ it's also important to emphasize the ecosystem that would support that evolution
 
 - [Markdown version](https://github.com/cncf/cnf-wg/blob/main/doc/whitepaper/Accelerating_Cloud_Native_in_Telco.md) in the CNF Working Group respository
 - [Download PDF](Accelerating%20Cloud%20Native%20in%20Telco.pdf)
+
+
+[Other cloud native resources](./)
