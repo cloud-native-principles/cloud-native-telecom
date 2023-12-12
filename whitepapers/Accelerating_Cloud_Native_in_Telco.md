@@ -1,7 +1,8 @@
-# Accelerating Cloud Native in Telco   (_[PDF](Accelerating%20Cloud%20Native%20in%20Telco.pdf)_)
+# Accelerating Cloud Native in Telco  
 **_Challenges of Cloud Native Telco Transformation today and how to overcome them - A CSP perspective_**
 
-
+ _[Download PDF](Accelerating%20Cloud%20Native%20in%20Telco.pdf)_
+ 
 ## Preamble
 
 
