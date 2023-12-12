@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accelerating Cloud Native in Telco
-description: A whitepaper on the challenges of Cloud Native Telco transformation today and how to overcome them from a CSP perspective
+description: Challenges of Cloud Native Telco transformation today and how to overcome them -- a CSP perspective
 ---
 
 <!--
