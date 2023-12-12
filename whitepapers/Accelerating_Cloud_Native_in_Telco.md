@@ -38,4 +38,6 @@ it's also important to emphasize the ecosystem that would support that evolution
 - [Download PDF](Accelerating%20Cloud%20Native%20in%20Telco.pdf)
 
 
-[Other cloud native resources](./)
+---
+
+[Other cloud native resources](../../)
